@@ -225,3 +225,5 @@ dotnet test
 ```
 
 ## Результаты тестирования
+
+![alt text](image.png)
