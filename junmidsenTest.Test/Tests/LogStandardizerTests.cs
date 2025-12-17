@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace junmidsenTest.Test;
+namespace junmidsenTest.Test.Tests;
 
 public class LogStandardizerTests : IDisposable
 {

@@ -1,7 +1,7 @@
 ﻿using junmidsenTest.Tasks.Third_Task.Models;
 
 
-namespace junmidsenTest.Test;
+namespace junmidsenTest.Test.Tests;
 
 public class LogEntryTests
 {

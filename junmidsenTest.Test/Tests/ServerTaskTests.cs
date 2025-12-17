@@ -1,6 +1,6 @@
 ﻿using junmidsenTest.SecondTask.Tasks;
 
-namespace junmidsenTest.Test;
+namespace junmidsenTest.Test.Tests;
 
 public class ServerTaskTests
 {

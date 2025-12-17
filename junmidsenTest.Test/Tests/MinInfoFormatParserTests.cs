@@ -1,7 +1,7 @@
 ﻿using junmidsenTest.Tasks.Third_Task.Models;
 using junmidsenTest.Tasks.Third_Task.Parsers;
 
-namespace junmidsenTest.Test;
+namespace junmidsenTest.Test.Tests;
 
 public class MinInfoFormatParserTests
 {
